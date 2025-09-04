@@ -15,7 +15,13 @@ This project features an interactive Power BI dashboard built to analyze employe
 - `Attrition_Analysis.pbix` — Power BI dashboard file
 - `Attrition data.csv` — Dataset used in the dashboard
 
+---
+
+## 🖥️ Dashboard Preview
+
 ![Dashboard Preview](dashboard.png)
+
+---
 
 ## 📂 How to Use
 
